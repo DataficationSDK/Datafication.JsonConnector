@@ -51,7 +51,7 @@ Datafication.JsonConnector is a specialized connector library that bridges JSON 
 > **Note**: Datafication.JsonConnector is currently in pre-release. The packages are now available on nuget.org.
 
 ```bash
-dotnet add package Datafication.JsonConnector --version 1.0.9
+dotnet add package Datafication.JsonConnector
 ```
 
 **Running the Samples:**

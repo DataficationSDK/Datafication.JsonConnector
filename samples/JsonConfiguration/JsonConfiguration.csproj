@@ -7,7 +7,7 @@
     <RollForward>LatestMajor</RollForward>
   </PropertyGroup>
   <ItemGroup>
-    <PackageReference Include="Datafication.Core" Version="1.0.9" />
-    <PackageReference Include="Datafication.JsonConnector" Version="1.0.9" />
+    <PackageReference Include="Datafication.Core" Version="1.0.10" />
+    <PackageReference Include="Datafication.JsonConnector" Version="1.0.10" />
   </ItemGroup>
 </Project>
